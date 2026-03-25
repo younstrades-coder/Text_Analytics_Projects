@@ -1,0 +1,141 @@
+market_segment,host_location,price_tier,amenity,n,tf,idf,tf_idf
+AU - Premium,AU,Premium,rain shower,1,0.002617801047120419,3.332204510175204,0.008723048455956032
+AU - Premium,AU,Premium,balcony,1,0.002617801047120419,2.8213788864092133,0.00738580860316548
+AU - Premium,AU,Premium,bath towel,1,0.002617801047120419,2.2335922215070942,0.005847100056301294
+AU - Premium,AU,Premium,bathroom essentials,1,0.002617801047120419,2.2335922215070942,0.005847100056301294
+AU - Premium,AU,Premium,bedroom comforts,1,0.002617801047120419,2.2335922215070942,0.005847100056301294
+BR - Premium,BR,Premium,doorman,11,0.02511415525114155,0.38776553100876343,0.009738403746795429
+BR - Premium,BR,Premium,gym,12,0.0273972602739726,0.1967102942460543,0.005389323130028885
+BR - Premium,BR,Premium,pool,15,0.03424657534246575,0.15415067982725836,0.005279132870796519
+BR - Premium,BR,Premium,buzzer/wireless intercom,11,0.02511415525114155,0.15415067982725836,0.0038713641052507803
+BR - Premium,BR,Premium,free parking on premises,18,0.0410958904109589,0.074107972153721835,0.0030455331022077466
+"Barcelona, Catalonia, Spain - Premium","Barcelona, Catalonia, Spain",Premium,crib,33,0.01266308518802763,0.4989911661189878,0.006318767644637988
+"Barcelona, Catalonia, Spain - Premium","Barcelona, Catalonia, Spain",Premium,high chair,30,0.011511895625479662,0.4054651081081644,0.004667672004315016
+"Barcelona, Catalonia, Spain - Premium","Barcelona, Catalonia, Spain",Premium,dishwasher,41,0.015732924021488872,0.27193371548364176,0.004278312484585308
+"Barcelona, Catalonia, Spain - Premium","Barcelona, Catalonia, Spain",Premium,standing valet,2,7.674597083653108e-4,4.430816798843313,0.0034004733682604094
+"Barcelona, Catalonia, Spain - Premium","Barcelona, Catalonia, Spain",Premium,paid parking on premises,21,0.008058326937835763,0.4054651081081644,0.003267370403020511
+"Barcelona, Cataluña, Spain - Premium","Barcelona, Cataluña, Spain",Premium,full kitchen,2,0.004618937644341801,1.540445040947149,0.007115219588670434
+"Barcelona, Cataluña, Spain - Premium","Barcelona, Cataluña, Spain",Premium,kitchenette,1,0.0023094688221709007,2.6390573296152584,0.006094820622668033
+"Barcelona, Cataluña, Spain - Premium","Barcelona, Cataluña, Spain",Premium,doorman,6,0.013856812933025405,0.38776553100876343,0.0053731944250636965
+"Barcelona, Cataluña, Spain - Premium","Barcelona, Cataluña, Spain",Premium,buzzer/wireless intercom,13,0.03002309468822171,0.15415067982725836,0.004628080456707526
+"Barcelona, Cataluña, Spain - Premium","Barcelona, Cataluña, Spain",Premium,crib,4,0.009237875288683603,0.4989911661189878,0.0046096181627620116
+"Brooklyn, New York, United States - Premium","Brooklyn, New York, United States",Premium,lockbox,3,0.01098901098901099,0.44183275227903923,0.004855304970099333
+"Brooklyn, New York, United States - Premium","Brooklyn, New York, United States",Premium,bathtub,2,0.007326007326007326,0.4989911661189878,0.0036556129386006433
+"Brooklyn, New York, United States - Premium","Brooklyn, New York, United States",Premium,pack ’n play/travel crib,2,0.007326007326007326,0.4795730802618863,0.003513355899354478
+"Brooklyn, New York, United States - Premium","Brooklyn, New York, United States",Premium,wide entryway,2,0.007326007326007326,0.44183275227903923,0.0032368699800662216
+"Brooklyn, New York, United States - Premium","Brooklyn, New York, United States",Premium,dishwasher,3,0.01098901098901099,0.27193371548364176,0.0029882825877323273
+CA - Premium,CA,Premium,alfresco shower,1,0.0019047619047619048,4.430816798843313,0.008439651045415835
+CA - Premium,CA,Premium,breakfast bar,1,0.0019047619047619048,4.430816798843313,0.008439651045415835
+CA - Premium,CA,Premium,chef's kitchen,1,0.0019047619047619048,4.430816798843313,0.008439651045415835
+CA - Premium,CA,Premium,dining area,1,0.0019047619047619048,4.430816798843313,0.008439651045415835
+CA - Premium,CA,Premium,home theater,1,0.0019047619047619048,4.430816798843313,0.008439651045415835
+ES - Premium,ES,Premium,ski-in/ski-out,1,0.00199203187250996,3.7376696182833684,0.007445557008532606
+ES - Premium,ES,Premium,kitchenette,1,0.00199203187250996,2.6390573296152584,0.005257086313974618
+ES - Premium,ES,Premium,crib,4,0.00796812749003984,0.4989911661189878,0.0039760252280397436
+ES - Premium,ES,Premium,full kitchen,1,0.00199203187250996,1.540445040947149,0.0030686156194166315
+ES - Premium,ES,Premium,smart lock,2,0.00398406374501992,0.7419373447293773,0.0029559256762126587
+HK - Premium,HK,Premium,doorman,5,0.012254901960784314,0.38776553100876343,0.0047520285662838654
+HK - Premium,HK,Premium,hot tub,4,0.00980392156862745,0.31994293467000234,0.0031366954379411995
+HK - Premium,HK,Premium,keypad,2,0.004901960784313725,0.42348361361084275,0.0020759000667198175
+HK - Premium,HK,Premium,pets live on this property,2,0.004901960784313725,0.38776553100876343,0.0019008114265135461
+HK - Premium,HK,Premium,beachfront,1,0.0024509803921568627,0.7672551527136672,0.0018805273350825176
+"Hawaii, United States - Premium","Hawaii, United States",Premium,disabled parking spot,2,0.0056179775280898875,1.0986122886681098,0.006171979149820842
+"Hawaii, United States - Premium","Hawaii, United States",Premium,beach essentials,3,0.008426966292134831,0.7172447321390059,0.006044197180946678
+"Hawaii, United States - Premium","Hawaii, United States",Premium,bbq grill,5,0.014044943820224719,0.4054651081081644,0.005694734664440511
+"Hawaii, United States - Premium","Hawaii, United States",Premium,waterfront,3,0.008426966292134831,0.6696166831497512,0.005642837217554083
+"Hawaii, United States - Premium","Hawaii, United States",Premium,beachfront,2,0.0056179775280898875,0.7672551527136672,0.004310422206256557
+Hong Kong - Premium,Hong Kong,Premium,doorman,15,0.01276595744680851,0.38776553100876343,0.00495019826819698
+Hong Kong - Premium,Hong Kong,Premium,baby bath,4,0.003404255319148936,0.9343092373768334,0.003180627191070071
+Hong Kong - Premium,Hong Kong,Premium,game console,3,0.002553191489361702,1.0986122886681098,0.002804967545535599
+Hong Kong - Premium,Hong Kong,Premium,children’s dinnerware,4,0.003404255319148936,0.7672551527136672,0.002611932434769931
+Hong Kong - Premium,Hong Kong,Premium,crib,6,0.005106382978723404,0.4989911661189878,0.002548039997203342
+"Hong Kong Island, Hong Kong - Premium","Hong Kong Island, Hong Kong",Premium,table corner guards,1,0.00423728813559322,1.8658674413817768,0.007906217971956682
+"Hong Kong Island, Hong Kong - Premium","Hong Kong Island, Hong Kong",Premium,lockbox,2,0.00847457627118644,0.44183275227903923,0.0037443453582969425
+"Hong Kong Island, Hong Kong - Premium","Hong Kong Island, Hong Kong",Premium,keypad,2,0.00847457627118644,0.42348361361084275,0.0035888441831427352
+"Hong Kong Island, Hong Kong - Premium","Hong Kong Island, Hong Kong",Premium,outlet covers,1,0.00423728813559322,0.8198988861990891,0.003474147822877496
+"Hong Kong Island, Hong Kong - Premium","Hong Kong Island, Hong Kong",Premium,bbq grill,2,0.00847457627118644,0.4054651081081644,0.0034361449839674946
+"Hong Kong, Hong Kong - Premium","Hong Kong, Hong Kong",Premium,baby bath,3,0.004991680532445923,0.9343092373768334,0.0046637732314983365
+"Hong Kong, Hong Kong - Premium","Hong Kong, Hong Kong",Premium,handheld shower head,3,0.004991680532445923,0.6241543090729939,0.003115578913841899
+"Hong Kong, Hong Kong - Premium","Hong Kong, Hong Kong",Premium,table corner guards,1,0.0016638935108153079,1.8658674413817768,0.0031046047277567003
+"Hong Kong, Hong Kong - Premium","Hong Kong, Hong Kong",Premium,building staff,4,0.0066555740432612314,0.38776553100876343,0.0025808022030533342
+"Hong Kong, Hong Kong - Premium","Hong Kong, Hong Kong",Premium,children’s dinnerware,2,0.0033277870216306157,0.7672551527136672,0.0025532617394797576
+"Honolulu, Hawaii, United States - Premium","Honolulu, Hawaii, United States",Premium,beach essentials,9,0.008670520231213872,0.7172447321390059,0.006218884960742825
+"Honolulu, Hawaii, United States - Premium","Honolulu, Hawaii, United States",Premium,dishwasher,16,0.015414258188824663,0.27193371548364176,0.004191656500711241
+"Honolulu, Hawaii, United States - Premium","Honolulu, Hawaii, United States",Premium,pack ’n play/travel crib,9,0.008670520231213872,0.4795730802618863,0.004158148094756239
+"Honolulu, Hawaii, United States - Premium","Honolulu, Hawaii, United States",Premium,bbq grill,10,0.009633911368015413,0.4054651081081644,0.0039062149143368435
+"Honolulu, Hawaii, United States - Premium","Honolulu, Hawaii, United States",Premium,bathtub,8,0.007707129094412331,0.4989911661189878,0.003845789334250388
+"Istanbul, Istanbul, Turkey - Premium","Istanbul, Istanbul, Turkey",Premium,bathtub with bath chair,2,0.0032258064516129032,2.2335922215070942,0.007205136198409981
+"Istanbul, Istanbul, Turkey - Premium","Istanbul, Istanbul, Turkey",Premium,changing table,2,0.0032258064516129032,1.3862943611198906,0.004471917293935131
+"Istanbul, Istanbul, Turkey - Premium","Istanbul, Istanbul, Turkey",Premium,dishwasher,8,0.012903225806451613,0.27193371548364176,0.003508822135272797
+"Istanbul, Istanbul, Turkey - Premium","Istanbul, Istanbul, Turkey",Premium,waterfront,3,0.004838709677419355,0.6696166831497512,0.0032400807249181513
+"Istanbul, Istanbul, Turkey - Premium","Istanbul, Istanbul, Turkey",Premium,building staff,5,0.008064516129032258,0.38776553100876343,0.003127141379102931
+"Istanbul, Turkey - Premium","Istanbul, Turkey",Premium,doorman,8,0.020942408376963352,0.38776553100876343,0.00812074410489557
+"Istanbul, Turkey - Premium","Istanbul, Turkey",Premium,wheelchair accessible,5,0.013089005235602094,0.303682413798222,0.003974900704165209
+"Istanbul, Turkey - Premium","Istanbul, Turkey",Premium,crib,3,0.007853403141361256,0.4989911661189878,0.003918778791510375
+"Istanbul, Turkey - Premium","Istanbul, Turkey",Premium,hot tub,4,0.010471204188481676,0.31994293467000234,0.003350187797591648
+"Istanbul, Turkey - Premium","Istanbul, Turkey",Premium,roll-in shower,1,0.002617801047120419,1.1727202608218317,0.003069948326758722
+"Istanbul, İstanbul, Turkey - Premium","Istanbul, İstanbul, Turkey",Premium,building staff,9,0.012640449438202247,0.38776553100876343,0.0049015305885939196
+"Istanbul, İstanbul, Turkey - Premium","Istanbul, İstanbul, Turkey",Premium,indoor fireplace,4,0.0056179775280898875,0.6021754023542185,0.003383007878394486
+"Istanbul, İstanbul, Turkey - Premium","Istanbul, İstanbul, Turkey",Premium,crib,4,0.0056179775280898875,0.4989911661189878,0.0028033211579718414
+"Istanbul, İstanbul, Turkey - Premium","Istanbul, İstanbul, Turkey",Premium,fireplace guards,1,0.0014044943820224719,1.9459101490553132,0.0027330198722686984
+"Istanbul, İstanbul, Turkey - Premium","Istanbul, İstanbul, Turkey",Premium,pocket wifi,3,0.004213483146067416,0.5596157879354227,0.0023579316907391405
+"Montreal, Quebec, Canada - Premium","Montreal, Quebec, Canada",Premium,ev charger,4,0.0016877637130801688,2.128231705849268,0.003591952246159102
+"Montreal, Quebec, Canada - Premium","Montreal, Quebec, Canada",Premium,children’s dinnerware,9,0.0037974683544303796,0.7672551527136672,0.0029136271622037992
+"Montreal, Quebec, Canada - Premium","Montreal, Quebec, Canada",Premium,dishwasher,24,0.010126582278481013,0.27193371548364176,0.0027537591441381443
+"Montreal, Quebec, Canada - Premium","Montreal, Quebec, Canada",Premium,baby monitor,3,0.0012658227848101266,2.032921526044943,0.0025733183873986624
+"Montreal, Quebec, Canada - Premium","Montreal, Quebec, Canada",Premium,bathtub,12,0.005063291139240506,0.4989911661189878,0.0025265375499695587
+"Montreal, Québec, Canada - Premium","Montreal, Québec, Canada",Premium,lockbox,8,0.008130081300813009,0.44183275227903923,0.003592136197390563
+"Montreal, Québec, Canada - Premium","Montreal, Québec, Canada",Premium,keypad,7,0.007113821138211382,0.42348361361084275,0.003012586682190954
+"Montreal, Québec, Canada - Premium","Montreal, Québec, Canada",Premium,bathtub,5,0.00508130081300813,0.4989911661189878,0.0025355242180842875
+"Montreal, Québec, Canada - Premium","Montreal, Québec, Canada",Premium,indoor fireplace,4,0.0040650406504065045,0.6021754023542185,0.002447867489244791
+"Montreal, Québec, Canada - Premium","Montreal, Québec, Canada",Premium,bath towel,1,0.0010162601626016261,2.2335922215070942,0.002269910794214527
+"New South Wales, Australia - Premium","New South Wales, Australia",Premium,bathtub,6,0.011695906432748537,0.4989911661189878,0.005836153989695764
+"New South Wales, Australia - Premium","New South Wales, Australia",Premium,other pet(s),1,0.001949317738791423,2.2335922215070942,0.00435398093861032
+"New South Wales, Australia - Premium","New South Wales, Australia",Premium,fireplace guards,1,0.001949317738791423,1.9459101490553132,0.003793197171647784
+"New South Wales, Australia - Premium","New South Wales, Australia",Premium,indoor fireplace,3,0.005847953216374269,0.6021754023542185,0.0035214935810188217
+"New South Wales, Australia - Premium","New South Wales, Australia",Premium,lockbox,4,0.007797270955165692,0.44183275227903923,0.0034450896863862704
+"New York, New York, United States - Premium","New York, New York, United States",Premium,lockbox,23,0.00781515460414543,0.44183275227903923,0.0034529912682357802
+"New York, New York, United States - Premium","New York, New York, United States",Premium,buzzer/wireless intercom,54,0.01834862385321101,0.15415067982725836,0.002828452840867126
+"New York, New York, United States - Premium","New York, New York, United States",Premium,bathtub,16,0.0054366292898402994,0.4989911661189878,0.0027128299890940557
+"New York, New York, United States - Premium","New York, New York, United States",Premium,pack ’n play/travel crib,16,0.0054366292898402994,0.4795730802618863,0.0026072610547707036
+"New York, New York, United States - Premium","New York, New York, United States",Premium,dishwasher,28,0.009514101257220523,0.27193371548364176,0.002587204904363564
+PT - Premium,PT,Premium,ground floor access,1,0.0012062726176115801,3.332204510175204,0.004019547056906156
+PT - Premium,PT,Premium,beachfront,4,0.0048250904704463205,0.7672551527136672,0.0037020755257595518
+PT - Premium,PT,Premium,crib,5,0.006031363088057901,0.4989911661189878,0.003009596900597031
+PT - Premium,PT,Premium,indoor fireplace,4,0.0048250904704463205,0.6021754023542185,0.0029055507954365185
+PT - Premium,PT,Premium,pack ’n play/travel crib,5,0.006031363088057901,0.4795730802618863,0.00289247937431777
+"Porto, Porto District, Portugal - Premium","Porto, Porto District, Portugal",Premium,pack ’n play/travel crib,20,0.012091898428053204,0.4795730802618863,0.0057989489753553355
+"Porto, Porto District, Portugal - Premium","Porto, Porto District, Portugal",Premium,high chair,22,0.013301088270858524,0.4054651081081644,0.005393127193699889
+"Porto, Porto District, Portugal - Premium","Porto, Porto District, Portugal",Premium,crib,14,0.008464328899637243,0.4989911661189878,0.004223625348044637
+"Porto, Porto District, Portugal - Premium","Porto, Porto District, Portugal",Premium,baby bath,7,0.004232164449818622,0.9343092373768334,0.003954150339563382
+"Porto, Porto District, Portugal - Premium","Porto, Porto District, Portugal",Premium,bathtub,10,0.006045949214026602,0.4989911661189878,0.003016875248603312
+"Rio de Janeiro, Rio de Janeiro, Brazil - Premium","Rio de Janeiro, Rio de Janeiro, Brazil",Premium,doorman,16,0.02711864406779661,0.38776553100876343,0.010515675417186805
+"Rio de Janeiro, Rio de Janeiro, Brazil - Premium","Rio de Janeiro, Rio de Janeiro, Brazil",Premium,dog(s),5,0.00847457627118644,0.9044562742271522,0.007664883679891121
+"Rio de Janeiro, Rio de Janeiro, Brazil - Premium","Rio de Janeiro, Rio de Janeiro, Brazil",Premium,wheelchair accessible,8,0.013559322033898305,0.303682413798222,0.0041177276447216535
+"Rio de Janeiro, Rio de Janeiro, Brazil - Premium","Rio de Janeiro, Rio de Janeiro, Brazil",Premium,children’s dinnerware,3,0.005084745762711864,0.7672551527136672,0.0039012973866796633
+"Rio de Janeiro, Rio de Janeiro, Brazil - Premium","Rio de Janeiro, Rio de Janeiro, Brazil",Premium,cat(s),3,0.005084745762711864,0.7419373447293773,0.003772562769810393
+"Rio de Janeiro, State of Rio de Janeiro, Brazil - Premium","Rio de Janeiro, State of Rio de Janeiro, Brazil",Premium,doorman,29,0.02235929067077872,0.38776553100876343,0.0086701622199338
+"Rio de Janeiro, State of Rio de Janeiro, Brazil - Premium","Rio de Janeiro, State of Rio de Janeiro, Brazil",Premium,buzzer/wireless intercom,29,0.02235929067077872,0.15415067982725836,0.0034466998573558154
+"Rio de Janeiro, State of Rio de Janeiro, Brazil - Premium","Rio de Janeiro, State of Rio de Janeiro, Brazil",Premium,pool,29,0.02235929067077872,0.15415067982725836,0.0034466998573558154
+"Rio de Janeiro, State of Rio de Janeiro, Brazil - Premium","Rio de Janeiro, State of Rio de Janeiro, Brazil",Premium,wheelchair accessible,13,0.010023130300693909,0.303682413798222,0.0030438484035288245
+"Rio de Janeiro, State of Rio de Janeiro, Brazil - Premium","Rio de Janeiro, State of Rio de Janeiro, Brazil",Premium,hot tub,12,0.009252120277563608,0.31994293467000234,0.0029601505135235374
+"Rio, Rio de Janeiro, Brazil - Premium","Rio, Rio de Janeiro, Brazil",Premium,doorman,9,0.026239067055393587,0.38776553100876343,0.010174605769909245
+"Rio, Rio de Janeiro, Brazil - Premium","Rio, Rio de Janeiro, Brazil",Premium,beachfront,4,0.011661807580174927,0.7672551527136672,0.008947581955844514
+"Rio, Rio de Janeiro, Brazil - Premium","Rio, Rio de Janeiro, Brazil",Premium,bathtub with bath chair,1,0.0029154518950437317,2.2335922215070942,0.006511930674947796
+"Rio, Rio de Janeiro, Brazil - Premium","Rio, Rio de Janeiro, Brazil",Premium,waterfront,3,0.008746355685131196,0.6696166831497512,0.005856705683525521
+"Rio, Rio de Janeiro, Brazil - Premium","Rio, Rio de Janeiro, Brazil",Premium,wheelchair accessible,5,0.014577259475218658,0.303682413798222,0.0044268573439974045
+"Sydney, New South Wales, Australia - Premium","Sydney, New South Wales, Australia",Premium,bathtub,13,0.009122807017543859,0.4989911661189878,0.004552200111962695
+"Sydney, New South Wales, Australia - Premium","Sydney, New South Wales, Australia",Premium,lockbox,14,0.009824561403508772,0.44183275227903923,0.004340813004846701
+"Sydney, New South Wales, Australia - Premium","Sydney, New South Wales, Australia",Premium,high chair,14,0.009824561403508772,0.4054651081081644,0.003983516851588984
+"Sydney, New South Wales, Australia - Premium","Sydney, New South Wales, Australia",Premium,indoor fireplace,9,0.00631578947368421,0.6021754023542185,0.0038032130675003275
+"Sydney, New South Wales, Australia - Premium","Sydney, New South Wales, Australia",Premium,bbq grill,13,0.009122807017543859,0.4054651081081644,0.0036989799336183413
+TR - Premium,TR,Premium,bathtub with bath chair,2,0.0044742729306487695,2.2335922215070942,0.009993701214796842
+TR - Premium,TR,Premium,bidet,1,0.0022371364653243847,3.7376696182833684,0.008361676998396798
+TR - Premium,TR,Premium,changing table,2,0.0044742729306487695,1.3862943611198906,0.006202659333869757
+TR - Premium,TR,Premium,roll-in shower,2,0.0044742729306487695,1.1727202608218317,0.005247070518218486
+TR - Premium,TR,Premium,breakfast,10,0.02237136465324385,0.14035735769492244,0.0031399856307588914
+US - Premium,US,Premium,beachfront,4,0.006802721088435374,0.7672551527136672,0.005219422807575967
+US - Premium,US,Premium,pack ’n play/travel crib,6,0.01020408163265306,0.4795730802618863,0.004893602859815166
+US - Premium,US,Premium,hot tub,8,0.013605442176870748,0.31994293467000234,0.004352965097551052
+US - Premium,US,Premium,bathtub,5,0.008503401360544218,0.4989911661189878,0.004243122160875747
+US - Premium,US,Premium,bbq grill,6,0.01020408163265306,0.4054651081081644,0.004137399062328208
